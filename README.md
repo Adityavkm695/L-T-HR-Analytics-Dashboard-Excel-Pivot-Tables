@@ -1,4 +1,4 @@
-# 📊 L&T HR Analytics Dashboard
+# 📊 L&T HR Workforce Analytics Dashboard
 
 An **HR Analytics portfolio project** built in Microsoft Excel using a dummy employee dataset to analyze workforce, compensation, performance, training, tenure, hiring trends, and employee distribution.
 
